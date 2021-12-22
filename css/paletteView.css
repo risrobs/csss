@@ -1,0 +1,17 @@
+.wrapper {
+	background-color: rgb(var(--neutral-high-5));
+}
+
+.header {
+	color: rgb(var(--neutral-low));
+	background-color: rgb(var(--neutral-high-3));
+}
+
+.main {
+	background-color: rgb(var(--neutral-high));
+}
+
+.footer {
+	color: rgb(var(--neutral-low-3));
+	background-color: rgb(var(--neutral-high-1));
+}
